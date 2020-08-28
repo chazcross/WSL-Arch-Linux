@@ -1,13 +1,18 @@
+# How to run Arch Linux on WSL
+
+This guide assumes that Windows 10 is up to date and that your system is already able to run linux using WSL.
+
+See [https://docs.microsoft.com/en-us/windows/wsl/install-win10](https://docs.microsoft.com/en-us/windows/wsl/install-win10)
+
+
 # Install
 1. Install LxRunOffline
-	```
-	https://github.com/DDoSolitary/LxRunOffline
-	```
+
+	[https://github.com/DDoSolitary/LxRunOffline](https://github.com/DDoSolitary/LxRunOffline)
 
 2. Download distro - You should grab the most up to date version
-	```
-	https://github.com/DDoSolitary/LxRunOffline/wiki
-	```
+
+	[https://github.com/DDoSolitary/LxRunOffline/wiki](https://github.com/DDoSolitary/LxRunOffline/wiki)
 
 3. Install distro (update paths and distro version)
 	```
